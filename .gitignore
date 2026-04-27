@@ -1,3 +1,4 @@
 target/
 .DS_Store
 .soroban/
+creator-keys/test_snapshots/
